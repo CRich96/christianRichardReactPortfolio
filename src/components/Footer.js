@@ -60,7 +60,7 @@ export default function Footer() {
              {/* <!-- Github --> */}
              <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://github.com/CRich96"
               role="button"
               data-mdb-ripple-color="dark"
             >
@@ -78,7 +78,7 @@ export default function Footer() {
         >
           © 2023 Copyright:
           <a className="text-dark" href="https://mdbootstrap.com/">
-            CRSolutions
+            CR Solutions
           </a>
         </div>
      {/* <!-- Copyright --> */}
