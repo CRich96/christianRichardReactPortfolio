@@ -78,7 +78,7 @@ export default function Footer() {
         >
           © 2023 Copyright:
           <a className="text-dark" href="https://mdbootstrap.com/">
-            MDBootstrap.com
+            CRSolutions
           </a>
         </div>
      {/* <!-- Copyright --> */}

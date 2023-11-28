@@ -4,7 +4,9 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 // import MainPage from "./pages";
 import Nav from "./components/Navigation";
-import AboutMe from "./pages/AboutMe";
+import AboutMe from "../src/pages/AboutMe";
+import Contact from "../src/pages/Contact";
+import React, { useState } from "react";
 
 function App() {
   return (
