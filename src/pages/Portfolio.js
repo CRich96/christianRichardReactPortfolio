@@ -19,7 +19,7 @@ export default function Portfolio() {
                             lead-in to additional content. This content is a little bit
                             longer.
                         </p>
-                        <div>
+                        <div className="d-flex justify-content-evenly">
                             <a
                                 href="https://crich96.github.io/a-good-one/"
                                 className="btn btn-primary"
@@ -50,7 +50,7 @@ export default function Portfolio() {
                             lead-in to additional content. This content is a little bit
                             longer.
                         </p>
-                        <div>
+                        <div className="d-flex justify-content-evenly">
                             <a
                                 href="https://crich96.github.io/concert-finder/"
                                 className="btn btn-primary"
@@ -81,7 +81,7 @@ export default function Portfolio() {
               lead-in to additional content. This content is a little bit
               longer.
             </p>
-            <div>
+            <div className="d-flex justify-content-evenly">
               <a
                 href="https://github.com/CRich96/Christian-Richard-SVG-Project"
                 className="btn btn-primary"
@@ -106,7 +106,7 @@ export default function Portfolio() {
               lead-in to additional content. This content is a little bit
               longer.
             </p>
-            <div>
+            <div className="d-flex justify-content-evenly">
               <a
                 href="https://deploy-note-taker-cad320294d76.herokuapp.com/"
                 className="btn btn-primary"
@@ -136,7 +136,7 @@ export default function Portfolio() {
                             This is a longer card with supporting text below as a natural
                             lead-in to additional content.
                         </p>
-                        <div>
+                        <div className="d-flex justify-content-evenly">
                             <a
                                 href="https://guarded-refuge-85630-b1fc6daf1801.herokuapp.com/"
                                 className="btn btn-primary"
@@ -167,7 +167,7 @@ export default function Portfolio() {
                             lead-in to additional content. This content is a little bit
                             longer.
                         </p>
-                        <div>
+                        <div className="d-flex justify-content-evenly">
                             <a
                                 href="https://crich96.github.io/Flex-Flow2/"
                                 className="btn btn-primary"
