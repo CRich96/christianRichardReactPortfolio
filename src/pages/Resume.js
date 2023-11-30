@@ -46,7 +46,7 @@ export default function Resume() {
             download
             className="btn btn-primary"
           >
-            Download Resume
+            Download Resume'
           </a>
         </MDBCardBody>
       </MDBCard>
